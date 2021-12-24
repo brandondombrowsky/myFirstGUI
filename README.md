@@ -5,5 +5,5 @@ A. The included src file contains the single class:
   1. ShapDrawing -  GUI constructor, private inner class, and a Main
 
 B. Running the code and triggering actionListener outputs GUI
-  1. Draw a red, green, or blue circle
-  2. Draw a red, green, or blue square
+  1. Draw a red, green, or blue circle between 100-400 pixels
+  2. Draw a red, green, or blue square betwen 100-400 pixels
