@@ -1,10 +1,10 @@
 # myFirstGUI
 In this project I learned to code a graphical user interface with Java Swing, using absolute positioning. The widgets draw either a circle or square of the user's desired size and position using a single actionListener. We were not required to code validation or write test code.
 
-# Included src file contains a single class:
+# Included src file containing single class:
 - ShapDrawing -  GUI constructor, private inner class, and a Main
 
-# Build instructions;
+# Build instructions:
 > The build instructions to make myFirstGui work.
 - Copy Java file into its own class with matching name.
 - Run program from ShapeDrawing class.
