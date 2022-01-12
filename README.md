@@ -1,7 +1,7 @@
 # myFirstGUI
 In this project I learned to code a graphical user interface with Java Swing, using absolute positioning. The widgets draw either a circle or square of the user's desired size and position using a single actionListener. We were not required to code validation or write test code.
 
-[![Output1.jpg](https://i.postimg.cc/KvWQcxwj/Output1.jpg)](https://postimg.cc/fJxYBnwQ)
+[![Output1.jpg](https://i.postimg.cc/jdy4zmjd/Output1.jpg)](https://postimg.cc/kBXSCj8k)
 
 # Included src file containing single class:
 ShapDrawing.java -  GUI constructor, private inner class, and a Main
@@ -14,3 +14,7 @@ ShapDrawing.java -  GUI constructor, private inner class, and a Main
 
 # Code output:
 > Draws a red, green, or blue circle or square between 100-400 pixels. Ex: Output1.jpg, Output2.jpg, Output3.jpg.
+
+[![Output2.jpg](https://i.postimg.cc/qR92KxV3/Output2.jpg)](https://postimg.cc/XGkZSFvj)
+
+[![Output3.jpg](https://i.postimg.cc/FHDcp4Xm/Output3.jpg)](https://postimg.cc/sMGvfb20)
