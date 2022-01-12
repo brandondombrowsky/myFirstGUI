@@ -10,7 +10,7 @@ ShapDrawing.java -  GUI constructor, private inner class, and a Main
 > The build instructions to make myFirstGui work.
 - Copy Java file into its own class with matching name.
 - Run program from ShapeDrawing class.
-- Non-integer data input into JTextFields will cause an exception when button clicked but not crash program.  
+- Non-integer data input in rhw JTextFields will cause an exception when button clicked, but qill not crash program.  
 
 # Code output:
 > Draws a red, green, or blue circle or square between 100-400 pixels. Ex: Output1.jpg, Output2.jpg, Output3.jpg.
