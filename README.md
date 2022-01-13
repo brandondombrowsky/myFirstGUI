@@ -1,5 +1,5 @@
 # myFirstGUI
-In this project I learned to code a graphical user interface with Java Swing, using absolute positioning. The widgets draw either a circle or square of the user's desired size and position using a single actionListener. We were not required to code validation or write test code.
+In this project I learned to code a graphical user interface with Java Swing using absolute positioning. Together the widgets draw either a circle or square of the user's desired size and positioning using a single actionListener. We were not required to code validation or write test code.
 
 [![Output1.jpg](https://i.postimg.cc/9Qm73c64/Output1.jpg)](https://postimg.cc/gn7J8bkd)
 
